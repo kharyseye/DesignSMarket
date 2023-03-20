@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SMarket\bin\Debug\SMarket.exe.config
+C:\Users\HP\source\repos\SMarket\bin\Debug\SMarket.exe
+C:\Users\HP\source\repos\SMarket\bin\Debug\SMarket.pdb
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Home.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Properties.Resources.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.exe
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.pdb
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.UserControl1.resources
