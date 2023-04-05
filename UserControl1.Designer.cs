@@ -105,7 +105,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(299, 43);
             this.button1.TabIndex = 5;
-            this.button1.Text = "Ajouter";
+            this.button1.Text = "Appliquer la Promotion";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // pictureBox1
@@ -131,6 +131,7 @@
             this.Controls.Add(this.label1);
             this.Name = "UserControl1";
             this.Size = new System.Drawing.Size(871, 423);
+            this.Load += new System.EventHandler(this.UserControl1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

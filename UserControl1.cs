@@ -31,5 +31,10 @@ namespace SMarket
         {
 
         }
+
+        private void UserControl1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

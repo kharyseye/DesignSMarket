@@ -10,3 +10,10 @@ C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.CoreCompileInputs.cach
 C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.exe
 C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.pdb
 C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.UserControl1.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Article.resources
+C:\Users\HP\source\repos\SMarket\bin\Debug\Guna.UI2.dll
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.csproj.CopyComplete
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Categories.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Connexion.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Facture.resources
+C:\Users\HP\source\repos\SMarket\obj\Debug\SMarket.Vendeur.resources
